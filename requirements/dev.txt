@@ -1,4 +1,4 @@
--r common.txt
+sour-r common.txt
 ForgeryPy==0.1
 Pygments==1.6
 colorama==0.2.7
